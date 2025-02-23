@@ -1,0 +1,181 @@
+/* ====================whole website ==================== */
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* ====================For Nav bar ====================*/
+.navbar-brand{
+    font-size: 35px;
+    letter-spacing: 2px;
+}
+.navbar-nav .nav-item{
+    font-size: 20px;
+}
+
+.navbar {
+    border-bottom: 2px solid #d2c6c6;
+}
+
+/* ==================== For Home page Image ====================*/
+.carousel-caption{
+    padding-bottom: 11%;
+    margin: auto;
+}
+.carousel-caption h2{
+    font-size: 50px;
+}
+.carousel-caption p{
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+/* ==================== Custom text shadow class  ====================*/
+.text-style-banner {
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+/* ==================== for section paddings ==================== */
+.paddingforSection{
+    padding: 150px 0px;
+}
+
+/*  ==================== product ==================== */
+
+.paddingforSection-product{
+    padding: 150px 80px 30px 80px;
+}
+
+.product-row{
+    padding-bottom: 50px;
+}
+.product-row-col{
+    margin-bottom: 20px;
+}
+
+.form-check{
+    margin-bottom: 20px;
+}
+.form-check-label{
+    font-size: 21px;
+}
+
+/*  ====================for product-details ==================== */
+.product-detail p{
+    font-size: 17px;
+}
+
+/*  ==================== Cart ==================== */
+
+table th{
+    font-size: 20px;
+}
+
+table tr{
+    font-size: 18px;
+}
+
+.paddingforSection-cart{
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+
+.table-rounded {
+    border-radius: 15px;
+    overflow: hidden; /* to prevent the border-radius from being clipped */
+}
+
+label{
+    font-size: 18px;
+}
+.table-btn-padding{
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+/*  ==================== About Us  ==================== */
+.ourservices-col{
+    margin-bottom: 20px;
+}
+.aboutus p{
+    font-size: 20px;
+}
+
+.paddingforSection-about{
+    padding: 150px 20px 10px 20px;
+}
+.ourservices{
+    font-size: 20px;
+}
+
+/*  ==================== Blog  ====================*/
+.paddingforSection-blog{
+    padding: 150px 20px 10px 20px;
+}
+
+.blogtext {
+    font-size: 17px;
+}
+
+.blog-details-text p{
+    font-size: 20px;
+}
+
+.paddingforSection-blog-details{
+    padding-top: 20px 20px 30px 20px;
+}
+
+.blog-details-header{
+    text-align: justify;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.blog-details-text-row{
+    margin-bottom: 50px;
+}
+
+.blog-details-text-row h4{
+    font-weight: bold;
+}
+
+.blog-details{
+    padding-left: 70px;
+    padding-right: 50px;
+}
+
+.card-body-padding{
+    padding: 0px;
+}
+
+.blog-details-text-row p{
+    padding: 40px 20px 5px 40px;
+}
+.blog-details-text-row ul{
+    padding-left: 50px;
+    font-size: 18px;
+}
+.blog-items p{
+    padding: 10px 20px 20px 40px;
+}
+.blog-items h5{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.d-grid{
+    padding: 10px;
+}
+.blog-details-one-img{
+    padding-bottom: 50px;
+}
+
+.blog-row{
+    padding-bottom: 50px;
+}
+.bestsellers-row{
+    padding-bottom: 50px;
+}
+.blog-items{
+    margin-bottom: 20px;
+}
+
